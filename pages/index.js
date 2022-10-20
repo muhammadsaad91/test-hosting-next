@@ -13,7 +13,7 @@ export default function Home() {
 
         <h1 className={styles.title}>
          Saad is here in 
-         Next App
+         Next App After updation in github
         </h1>
 
              <footer className={styles.footer}>
